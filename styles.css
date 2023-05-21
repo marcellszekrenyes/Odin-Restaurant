@@ -19,7 +19,7 @@ html {
 #content {
     width: 100vw;
     height: 100vh;
-    background-image: url("./restaurant_photo.jpg");
+    background-image: url("./Media/restaurant_photo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -99,7 +99,7 @@ html {
 #welcomeText {
     align-self: center;
     text-align: center;
-    padding: 2.5% 20%;
+    padding: 2.5% 15%;
     width: 100%;  
     font-size: 10rem;
     font-weight: 600;
